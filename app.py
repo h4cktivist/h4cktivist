@@ -16,14 +16,15 @@ def parser(url):
     all_repos = soup.find_all('div', class_='col-10 col-lg-9 d-inline-block')
 
     for r in all_repos:
-        if r.find('p', class_='col-9 d-inline-block color-text-secondary mb-2 pr-4') is not None:
-            desc = r.find('p', class_='col-9 d-inline-block color-text-secondary mb-2 pr-4').text
+        if r.find('p', itemprop='description') is not None:
+            desc = r.find('p', itemprop='description').text
         else:
             desc = 'No description'
 
         repo = {
             'name': r.find('a', itemprop='name codeRepository').text.rsplit('\n        ')[1],
             'desc': desc,
+            'lang': r.find('span', itemprop='programmingLanguage').text,
             'link': 'https://github.com/' + r.find('a', itemprop='name codeRepository').get('href')
         }
 
