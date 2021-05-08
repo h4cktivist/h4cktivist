@@ -5,6 +5,7 @@
 ![](https://camo.githubusercontent.com/5ebc8bbbe9179d0121ed4e660ca60fd4e8e90e4d6ff1a44ca81ab8e6d915ca96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3039324532303f6c6f676f3d446a616e676f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/d40d6f0509d60cce1c08408421569b50557015f8490aea945dd26ca496b96bd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f6c6f676f3d4c696e7578267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d626c61636b)
 
+> <em>«Never spend five minutes doing something by hand when you can spend five hours failing to automate it.»</em>
 
 <h4>
   
@@ -21,25 +22,42 @@ class Developer:
             'database': ['SQLite3', 'PostgreSQL', 'MongoDB'],
             'cybersecurity': ['Linux', 'Metasploit', 'NMAP', 'OpenVAS']
         }
+        
+h4cktivist = Developer()
 ```
 
-</h4>
 
-### A little about me:
+### :man: A little about me:
+
+<h4>
 
 Well, I'm beginner backend developer.
 
 I'm currenty work with such frameworks as Django and Flask. Build some APIs and other useless stuff just for fun. You can watch all of it below.
 
-I don't think someone needs me but anyway you can write me on my email. Also you cam visit my website [website](https://h4cktivist.herokuapp.com/) if you want ;)
+I don't think someone needs me but anyway you can write me on my email. Also you cam visit my [website](https://h4cktivist.herokuapp.com/) if you want ;)
 
 ![GIF with cat to attract attention](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
+</h4>
 
-### Some statistic (I really like statistic):
 
-![h4cktivist's github stats](https://github-readme-stats.vercel.app/api?username=h4cktivist&count_private=true&show_icons=true&theme=dark)
+### :chart_with_upwards_trend: Some GitHub statistic:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4cktivist&layout=compact&theme=dark)
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=h4cktivist&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4cktivist&hide_title=true&hide_border=true&layout=compact&theme=dark" />
 
-### Well, if you still here, you can chek out my projects, hope you enjoy it. I also glad to some collaboration - so you are welcome!
+
+### :wrench: PC specifications:
+
+<h4>
+  
+```js
+  const PC = {
+    'CPU': 'Xeon E5 2680v2',
+    'RAM': 32,
+    'GPU': 'GTX 1060 6GB',
+    'Storage': ['120GB SSD', '1TB HDD'],
+    'OS': ['Windows 10', 'Kali Linux']
+  }
+```
+</h4>
