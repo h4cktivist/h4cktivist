@@ -40,11 +40,20 @@ I don't think someone needs me but anyway you can write me on my email. Also you
 ![GIF with cat to attract attention](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 </h4>
+  
+  
+### :open_file_folder: Certificates and other awards:
+
+<h4>
+  
+- [Successfully completed the freeCodeCamp.org APIs and Microservices](https://www.freecodecamp.org/certification/h4cktivist/apis-and-microservices)
+  
+</h4>
 
 
 ### :chart_with_upwards_trend: Some GitHub statistic:
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=h4cktivist&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4cktivist&hide_title=true&hide_border=true&layout=compact&theme=dark" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=h4cktivist&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&&count_private=true&line_height=21&theme=dark" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4cktivist&hide_title=true&hide=html,css,scss&hide_border=true&layout=compact&theme=dark" />
 
 
 ### :wrench: PC specifications:
