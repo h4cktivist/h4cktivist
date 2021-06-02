@@ -16,8 +16,8 @@ class Developer:
         self.name = 'Popov Vadim'
         self.specialization = 'Backend Developer'
         self.code = {
-            'frontend': ['HTML', 'CSS'],
-            'backend': ['Python', 'Django', 'Flask'],
+            'frontend': ['HTML', 'CSS', JS],
+            'backend': ['Python', 'Django', 'Flask', Express],
             'devops': ['Docker', 'Heroku'],
             'database': ['SQLite3', 'PostgreSQL', 'MongoDB'],
             'cybersecurity': ['Linux', 'Metasploit', 'NMAP', 'OpenVAS']
@@ -47,6 +47,8 @@ I don't think someone needs me but anyway you can write me on my email. Also you
 <h4>
   
 - [Successfully completed the freeCodeCamp.org APIs and Microservices](https://www.freecodecamp.org/certification/h4cktivist/apis-and-microservices)
+- [Successfully completed the freeCodeCamp.org
+JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/h4cktivist/javascript-algorithms-and-data-structures)
   
 </h4>
 
