@@ -16,8 +16,8 @@ class Developer:
         self.name = 'Popov Vadim'
         self.specialization = 'Backend Developer'
         self.code = {
-            'frontend': ['HTML', 'CSS', JS],
-            'backend': ['Python', 'Django', 'Flask', Express],
+            'frontend': ['HTML', 'CSS', 'JS'],
+            'backend': ['Python', 'Django', 'Flask', 'Express.js'],
             'devops': ['Docker', 'Heroku'],
             'database': ['SQLite3', 'PostgreSQL', 'MongoDB'],
             'cybersecurity': ['Linux', 'Metasploit', 'NMAP', 'OpenVAS']
