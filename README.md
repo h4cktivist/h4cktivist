@@ -46,6 +46,8 @@ I don't think someone needs me but anyway you can write me on my email. Also you
 
 <h4>
   
+- [Successfully completed the freeCodeCamp.org
+Scientific Computing with Python](https://www.freecodecamp.org/certification/h4cktivist/scientific-computing-with-python-v7)
 - [Successfully completed the freeCodeCamp.org APIs and Microservices](https://www.freecodecamp.org/certification/h4cktivist/apis-and-microservices)
 - [Successfully completed the freeCodeCamp.org
 JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/h4cktivist/javascript-algorithms-and-data-structures)
