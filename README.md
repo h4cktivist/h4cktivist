@@ -54,6 +54,7 @@ Scientific Computing with Python](https://www.freecodecamp.org/certification/h4c
 - [Successfully completed the freeCodeCamp.org
 JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/h4cktivist/javascript-algorithms-and-data-structures)
 - [JetBrains Academy (Hyperskill) profile](https://hyperskill.org/profile/79648941)
+- [Codewars profile](https://www.codewars.com/users/h4cktivist)
   
 </h4>
 
