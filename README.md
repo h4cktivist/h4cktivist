@@ -35,7 +35,7 @@ h4cktivist = Developer()
 
 Well, I'm beginner backend developer.
 
-I'm currenty work with such frameworks as Django, Flask and a little ExpressJS. With my projects I often use SQLite3, PostgreSQL and not so often MongoDB databases. Can deploy website on Heroku, also handle with Docker.
+I'm currenty work with such frameworks as Django, Flask and a little ExpressJS. With my projects I often use SQLite3, PostgreSQL and not so often MongoDB databases. Can deploy website on Heroku or other hosting, also handle with Docker.
 
 You can watch some of my projects below. Also you cam visit my [website](https://h4cktivist.herokuapp.com/) if you want ;)
 
