@@ -22,7 +22,7 @@ class Developer:
             'backend': ['Python', 'Django', 'Flask', 'Express.js'],
             'devops': ['Docker', 'Heroku'],
             'database': ['SQLite3', 'PostgreSQL', 'MongoDB'],
-            'cybersecurity': ['Linux', 'Metasploit', 'NMAP', 'OpenVAS']
+            'unix': ['Linux', 'Metasploit', 'NMAP', 'OpenVAS']
         }
         
 h4cktivist = Developer()
@@ -35,9 +35,9 @@ h4cktivist = Developer()
 
 Well, I'm beginner backend developer.
 
-I'm currenty work with such frameworks as Django and Flask. Build some APIs and other useless stuff just for fun. You can watch all of it below.
+I'm currenty work with such frameworks as Django, Flask and a little ExpressJS. With my projects I often use SQLite3, PostgreSQL and not so often MongoDB databases. Can deploy website on Heroku, also handle with Docker.
 
-I don't think someone needs me but anyway you can write me on my email. Also you cam visit my [website](https://h4cktivist.herokuapp.com/) if you want ;)
+You can watch some of my projects below. Also you cam visit my [website](https://h4cktivist.herokuapp.com/) if you want ;)
 
 ![GIF with cat to attract attention](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
