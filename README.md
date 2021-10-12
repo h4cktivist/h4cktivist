@@ -9,6 +9,8 @@
 
 > <em>«Never spend five minutes doing something by hand when you can spend five hours failing to automate it.»</em>
 
+[![wakatime](https://wakatime.com/badge/user/8daeecdc-e839-4a40-9f7e-0c21bb4dc1fa.svg)](https://wakatime.com/@8daeecdc-e839-4a40-9f7e-0c21bb4dc1fa)
+
 <h4>
   
 ```python
