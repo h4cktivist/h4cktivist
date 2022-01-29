@@ -83,7 +83,7 @@ You can check my [resume](https://career.habr.com/h4cktivist) on Habr.Career (Ru
     'RAM': 32,
     'GPU': 'GTX 1060 6GB',
     'Storage': ['120GB SSD', '1TB HDD'],
-    'OS': ['Windows 10', 'Kali Linux']
+    'OS': ['Windows 10', 'Arch Linux']
   }
 ```
 </h4>
