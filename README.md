@@ -24,7 +24,6 @@ class Developer:
             'backend': ['Python', 'Django', 'Flask', 'Express.js'],
             'devops': ['Docker', 'Heroku'],
             'database': ['SQLite3', 'PostgreSQL', 'MongoDB'],
-            'unix': ['Linux', 'Metasploit', 'NMAP', 'OpenVAS']
         }
         
 h4cktivist = Developer()
