@@ -7,9 +7,10 @@
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 ![](https://camo.githubusercontent.com/d40d6f0509d60cce1c08408421569b50557015f8490aea945dd26ca496b96bd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f6c6f676f3d4c696e7578267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d626c61636b)
 
-> <em>«Never spend five minutes doing something by hand when you can spend five hours failing to automate it.»</em>
+> <em>«Your GitHub profile looks like Google and Yandex should bombard you with job offers every day...» © One good person </em>
 
 [![wakatime](https://wakatime.com/badge/user/8daeecdc-e839-4a40-9f7e-0c21bb4dc1fa.svg)](https://wakatime.com/@8daeecdc-e839-4a40-9f7e-0c21bb4dc1fa)
+![](https://komarev.com/ghpvc/?username=h4cktivist)
 
 <h4>
   
@@ -70,7 +71,9 @@ You can check my [resume](https://career.habr.com/h4cktivist) on Habr.Career (Ru
   
 ### :chart_with_upwards_trend: Some GitHub statistic:
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=h4cktivist&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&&count_private=true&line_height=21&theme=dark" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4cktivist&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4cktivist&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4cktivist&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4cktivist&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4cktivist&theme=github_dark)
 
 
 ### :wrench: PC specifications:
