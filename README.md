@@ -90,3 +90,5 @@ You can check my [resume](https://career.habr.com/h4cktivist) on Habr.Career (Ru
   }
 ```
 </h4>
+  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/79j0N8D)
