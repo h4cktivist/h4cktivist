@@ -71,6 +71,7 @@ You can check my [resume](https://career.habr.com/h4cktivist) on Habr.Career (Ru
   
 ### :chart_with_upwards_trend: Some GitHub statistic:
 
+![](https://github-profile-trophy.vercel.app/?username=h4cktivist&theme=onestar)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4cktivist&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4cktivist&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4cktivist&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4cktivist&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4cktivist&theme=github_dark)
