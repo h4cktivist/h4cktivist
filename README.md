@@ -51,6 +51,7 @@ You can watch some of my projects below. Also, you can visit my [website](https:
 
 <h4>
   
+- [Winter School on Software Engineering at HSE University](https://drive.google.com/file/d/1FlLYtyTuIXu6h3_JFckTXziQtqRB8O2p/view?usp=sharing)
 - [Successfully completed the freeCodeCamp.org
 Scientific Computing with Python](https://www.freecodecamp.org/certification/h4cktivist/scientific-computing-with-python-v7)
 - [Successfully completed the freeCodeCamp.org APIs and Microservices](https://www.freecodecamp.org/certification/h4cktivist/apis-and-microservices)
