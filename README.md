@@ -88,7 +88,7 @@ You can check my [resume](https://career.habr.com/h4cktivist) on Habr.Career (Ru
     'CPU': 'Xeon E5 2680v2',
     'RAM': 32,
     'GPU': 'GTX 1060 6GB',
-    'Storage': ['120GB SSD', '1TB HDD'],
+    'Storage': ['120GB SSD', '4TB HDD'],
     'OS': ['Windows 10', 'Arch Linux']
   }
 ```
