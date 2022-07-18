@@ -12,6 +12,9 @@
 [![wakatime](https://wakatime.com/badge/user/8daeecdc-e839-4a40-9f7e-0c21bb4dc1fa.svg)](https://wakatime.com/@8daeecdc-e839-4a40-9f7e-0c21bb4dc1fa)
 ![views](https://komarev.com/ghpvc/?username=h4cktivist)
 
+
+![](https://www.codewars.com/users/h4cktivist/badges/small)
+
 <h4>
   
 ```python
@@ -57,7 +60,6 @@ You can watch some of my projects below. Also, you can visit my [website](https:
 Scientific Computing with Python](https://www.freecodecamp.org/certification/h4cktivist/scientific-computing-with-python-v7)
 - [Successfully completed the freeCodeCamp.org APIs and Microservices](https://www.freecodecamp.org/certification/h4cktivist/apis-and-microservices)
 - [JetBrains Academy (Hyperskill) profile](https://hyperskill.org/profile/79648941)
-- [Codewars profile](https://www.codewars.com/users/h4cktivist)
   
 </h4>
 
