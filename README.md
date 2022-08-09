@@ -32,8 +32,9 @@ class Developer:
         
 h4cktivist = Developer()
 ```
-<a href="mailto:popovvadim0605@gmail.com"><img src="https://img.shields.io/badge/-popovvadim0605@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/h4cktiv1st"><img src="https://img.shields.io/badge/telegram-%40h4cktiv1st-blue"/></a> 
+<a href="mailto:popovvadim0605@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/h4cktiv1st"><img src="https://img.shields.io/badge/Telegram-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vadim-popov-810303248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### :man: A little about me:
 
