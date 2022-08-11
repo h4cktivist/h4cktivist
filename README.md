@@ -70,7 +70,7 @@ Scientific Computing with Python](https://www.freecodecamp.org/certification/h4c
 
 08.2021 - current time | JetBrains Academy | Topics Author on SQL and Databases track.
   
-You can check my [CV](https://career.habr.com/h4cktivist) on Habr.Career (Russian only)
+You can check my CV on [Habr.Career](https://career.habr.com/h4cktivist) (Russian only) or on [LinkedIn](https://www.linkedin.com/in/vadim-popov-810303248/).
   
 </h4>
 
