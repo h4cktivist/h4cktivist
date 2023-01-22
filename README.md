@@ -68,9 +68,9 @@ Scientific Computing with Python](https://www.freecodecamp.org/certification/h4c
 ### :office: Career:
 <h4>
 
-08.2021 - current time | JetBrains Academy | Topics Author on SQL and Databases track.
+08.2021 - present | JetBrains Academy (Hyperskill) | Topics Author on SQL and Databases track.
   
-You can check my CV on [Habr.Career](https://career.habr.com/h4cktivist) (Russian only) or on [LinkedIn](https://www.linkedin.com/in/vadim-popov-810303248/).
+You can check my CV on [LinkedIn](https://www.linkedin.com/in/vadim-popov-810303248/).
   
 </h4>
 
