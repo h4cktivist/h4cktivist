@@ -21,19 +21,6 @@
 Bachelor's Student at the University of Tyumen | Mathematics and CS: Programming and Big Data Analysis Technologies | 2022-2026
 </h4>
 
-
-### :open_file_folder: Certificates and other awards:
-
-<h4>
-
-- [Winter School on Software Engineering at HSE University](https://drive.google.com/file/d/1FlLYtyTuIXu6h3_JFckTXziQtqRB8O2p/view?usp=sharing)
-- [Successfully completed the freeCodeCamp.org
-Scientific Computing with Python](https://www.freecodecamp.org/certification/h4cktivist/scientific-computing-with-python-v7)
-- [Successfully completed the freeCodeCamp.org APIs and Microservices](https://www.freecodecamp.org/certification/h4cktivist/apis-and-microservices)
-- [Hyperskill profile](https://hyperskill.org/profile/79648941)
-  
-</h4>
-
   
 ### :office: Career:
 <h4>
