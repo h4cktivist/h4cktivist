@@ -17,19 +17,13 @@
 
 
 ### 👨‍🎓 Education:
-<h4>
 Bachelor's Student at the University of Tyumen | Mathematics and CS: Programming and Big Data Analysis Technologies | 2022-2026
-</h4>
 
   
 ### :office: Career:
-<h4>
-
 JetBrains Academy (Hyperskill) | Content Author at SQL & Databases and Essentials tracks | 08.2021 - present
  
 <a href="https://www.linkedin.com/in/vadim-popov-810303248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-</h4>
 
   
 ### :chart_with_upwards_trend: Some GitHub statistic:
