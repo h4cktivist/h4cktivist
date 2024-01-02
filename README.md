@@ -14,7 +14,7 @@ Bachelor's Student at the University of Tyumen | Mathematics and CS: Programming
 
   
 ### :office: Career:
-JetBrains Academy (Hyperskill) | Content Author at SQL & Databases and Essentials tracks | 08.2021 - present
+JetBrains Academy (Hyperskill) | Content Author at SQL & Databases and Essentials tracks | 08.2021 - 01.2024
  
 <a href="https://www.linkedin.com/in/vadim-popov-810303248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
