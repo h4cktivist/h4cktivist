@@ -13,7 +13,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4cktivist&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4cktivist&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4cktivist&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4cktivist&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4cktivist&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4cktivist&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4cktivist&theme=github_dark&utcOffset=5)
 
 
 <a href="mailto:popovvadim0605@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
