@@ -1,5 +1,7 @@
 # Hi! I'm Vadim! :computer:
 
+<a href="https://drive.google.com/file/d/150puaNsHSYMTO4vg_Wb-CybAiq-aSGGw/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV%20(Russian)-457b9d?style=for-the-badge"/></a>
+<a href="https://drive.google.com/file/d/1JO7Qo_UezG_XK8WWKjINrxbxEYx9_iTj/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV%20(English)-457b9d?style=for-the-badge"/></a>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
